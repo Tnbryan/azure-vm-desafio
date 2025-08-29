@@ -19,7 +19,7 @@ Durante este laboratório, aprendi a:
 
 ## Captura de Tela
 
-![Máquina Virtual criada no Azure](./images/01-criacao-vm.png)
+![Máquina Virtual criada no Azure](01-criacao-vm.png)
 
 ## Conclusão
 
