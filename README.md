@@ -21,6 +21,8 @@ Durante este laboratório, aprendi a:
 
 ![Máquina Virtual criada no Azure](01-criacao-vm.png)
 
+![MV Execução](vm-executando.png).
+
 ## Conclusão
 
 Este desafio me proporcionou experiência prática no uso da nuvem pública, reforçando os conceitos aprendidos em aula e aprimorando minhas habilidades em documentação técnica.
